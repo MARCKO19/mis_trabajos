@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1537583184 source:c:\estructura de datos\conjunto\conjuntos.cpp
+	"Conjuntos.h"
+	<iostream>
+	<process.h>
+	<stdlib.h>
+	<fstream>
+
+1537583184 c:\estructura de datos\conjunto\conjuntos.h
+
